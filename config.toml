@@ -1,4 +1,4 @@
-baseURL = "/website/"
+baseURL = "https://dotfair-opensource.github.io/website/"
 title = "Dotfair"
 enableRobotsTXT = true
 # this example loads the theme as hugo module
