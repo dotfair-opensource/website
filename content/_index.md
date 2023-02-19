@@ -27,7 +27,7 @@ ghcr.io/dotfair-opensource/dotfair:latest ./dotfair run
 {{< tip "warning" >}}
 **Warning:** This is a work in progress. The project is not yet ready for production use.
 
-At the moment, dotfair works only with AWS instances. To know more about what is planned, check the [roadmap](/roadmap/).
+At the moment, dotfair works only with AWS instances. To know more about what is planned, check the [roadmap](roadmap/).
 {{< /tip >}}
 
 {{< button "https://github.com/dotfair-opensource/dotfair" "See on GitHub" "mb-1" >}}
