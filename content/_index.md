@@ -35,6 +35,6 @@ At the moment, dotfair works only with AWS instances. To know more about what is
 {{< /column >}}
 
 {{< column >}}
-![diy]({{ .Site.BaseURL }}/images/dotfair.png)
+![diy](images/dotfair.png)
 {{< /column >}}
 {{< /block >}}
